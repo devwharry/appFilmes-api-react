@@ -1,6 +1,7 @@
 # React + Vite / Api Movies_lib
 
 Projeto para pratica os conhecimentos em React js, e consumir uma Api.
+PROJETO DE FILMES COM REACT E API DO TMDB (REACT ROUTER, REACT HOOKS).
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
